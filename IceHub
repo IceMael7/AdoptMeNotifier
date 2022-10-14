@@ -1,0 +1,6 @@
+--game.StarterGui:SetCore("SendNotification", {
+--	Title = "Updating..."; 
+--	Text = "Owner made a fix/update"; 
+--	Icon = ""; 
+--	Duration = 10;
+--})
