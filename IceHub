@@ -1,6 +1,7 @@
---game.StarterGui:SetCore("SendNotification", {
---	Title = "Updating..."; 
---	Text = "Owner made a fix/update"; 
---	Icon = ""; 
---	Duration = 10;
---})
+wait(500)
+game.StarterGui:SetCore("SendNotification", {
+Title = "Update soon"; 
+Text = "we are working on a fix of the hide and seek fail telporting.."; 
+Icon = ""; 
+Duration = 3;
+})
