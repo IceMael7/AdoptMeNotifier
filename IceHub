@@ -1,7 +1,6 @@
-wait(500)
 game.StarterGui:SetCore("SendNotification", {
-Title = "Update soon"; 
-Text = "we are working on a fix of the hide and seek fail telporting.."; 
-Icon = ""; 
-Duration = 3;
+Title = "Updating..."; 
+Text = "Owner is actually updating script so it can be down for some minute!"; 
+Icon = "http://www.roblox.com/asset/?id=6525485104"; 
+Duration = 10;
 })
