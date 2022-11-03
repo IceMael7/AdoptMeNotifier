@@ -1,6 +1,6 @@
---game.StarterGui:SetCore("SendNotification", {
---Title = "Updated"; 
---Text = "Owner updated script, recomanded to restart your game !"; 
---Icon = "http://www.roblox.com/asset/?id=4485364377"; 
---Duration = 3;
---})
+game.StarterGui:SetCore("SendNotification", {
+Title = "Hi"; 
+Text = "Come back on december for new Christmas autofarming ! "; 
+Icon = ""; 
+Duration = 10;
+})
